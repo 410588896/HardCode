@@ -4,23 +4,7 @@
 
 ## 博客地址
 
-[http://codebear.cn](http://codebear.cn/?ADTAG=gh)
-
-## 效果图
-
-### 博客-pc
-![博客-pc](/readme-file/博客.gif)
-
-### 博客-手机
-
-![博客-手机](/readme-file/博客-手机.gif)
-
-### 博客-后台管理-pc
-![博客-后台管理-pc](/readme-file/博客-后台管理.gif)
-
-### 博客-后台管理-手机
-
-![博客-后台管理-手机](/readme-file/博客-后台管理-手机.gif)
+[http://hardcode.xyz](http://hardcode.xyz)
 
 ## 博客实现功能
 - [x] 首页（文章列表）
