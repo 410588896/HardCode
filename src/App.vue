@@ -142,7 +142,7 @@ export default {
     }
   },
   mounted() {
-    document.title = `被发现啦(*´∇｀*)---${this.blogInfo.blogName}的博客`;
+    document.title = `${this.blogInfo.blogName}的博客`;
     this.updateScreen()
     window.addEventListener('resize', this.updateScreen)
     window.addEventListener('scroll', this.scrollListener)
