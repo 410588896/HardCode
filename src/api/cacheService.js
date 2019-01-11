@@ -14,7 +14,7 @@ const KEYS = {
 }
 
 // 这里改为自己的nameSpace，比如项目名称
-const nameSpace = 'CBBLOG'
+const nameSpace = 'HCBLOG'
 
 for (let i in KEYS) {
   if (KEYS.hasOwnProperty(i)) {

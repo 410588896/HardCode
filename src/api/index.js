@@ -14,8 +14,8 @@ import {
 } from 'STORE/mutation-types'
 
 /* eslint-disable */
-const API_ROOT = 'http://blogapi.codebear.cn/index.php'
-const API_ROOT_DEV = '/localapi'
+const API_ROOT = 'http://127.0.0.1:8000/'
+const API_ROOT_DEV = 'http://127.0.0.1:8000/'
 
 /* eslint-enable */
 axios.defaults.baseURL = (process.env.NODE_ENV === 'production' ? API_ROOT : API_ROOT_DEV)
